@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mobile 01 20182</string>
+    <string name="text_hello">Hello Robby</string>
+    <string name="text_output_1">Output 1</string>
+    <string name="text_output_2">Output 2</string>
+    <string name="text_output_3">Output 3</string>
+    <string name="text_output_4">Output 4</string>
+    <string name="action_click_1">Button Click 1</string>
+    <string name="action_click_2">Button Click 2</string>
+    <string name="action_click_3">Button Click 3</string>
+    <string name="action_click_4">Button Click 4</string>
+</resources>
